@@ -1,13 +1,17 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.13**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.14**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.13/Noxmera-Setup-0.1.13-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.13/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.13)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.14/Noxmera-Setup-0.1.14-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.14/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.14)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.14 incorpora el logo de Noxmera, la elección Color/Monochrome en Appearance y los iconos de Windows por tema y escala de pantalla. También evita que los botones de navegación se compriman al faltar altura y aprovecha mejor el espacio de Recientes.
+
+Pendiente conocido: Monochrome pierde legibilidad en tamaños pequeños, tanto en el encabezado como en la barra de tareas; se revisará en otra actualización.
 
 La 0.1.13 añade buscadores y selección múltiple en el editor, reorganiza sus controles y muestra la ficha del mod sobre Search. Status activa o desactiva archivos sin recargar la lista ni perder el scroll. Las ventanas nuevas siguen el monitor de origen, los campos permiten deshacer/rehacer y los temas incluyen Accent hover.
 
