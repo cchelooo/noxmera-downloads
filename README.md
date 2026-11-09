@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.14**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.15**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.14/Noxmera-Setup-0.1.14-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.14/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.14)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.15/Noxmera-Setup-0.1.15-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.15/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.15)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.15 corrige la identidad de la aplicación en Windows para asociar sus ventanas con los accesos directos instalados y su grupo en la barra de tareas. Windows puede conservar la imagen de un acceso anclado; el launcher no modifica los anclados ni la caché de iconos.
 
 La 0.1.14 incorpora el logo de Noxmera, la elección Color/Monochrome en Appearance y los iconos de Windows por tema y escala de pantalla. También evita que los botones de navegación se compriman al faltar altura y aprovecha mejor el espacio de Recientes.
 
