@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.16**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.17**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.16/Noxmera-Setup-0.1.16-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.16/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.16)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.17/Noxmera-Setup-0.1.17-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.17/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.17)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.17 muestra imágenes y botones con enlaces en los README del catálogo de Modrinth y CurseForge. Conserva el tamaño natural de los botones, ajusta las capturas grandes al panel y mantiene juntas y alineadas las imágenes del mismo párrafo, pasando a otra línea solo cuando no caben. La carga se hace en segundo plano; los GIF se muestran con su primera imagen.
 
 La 0.1.16 conserva la forma exacta del logo original en Monochrome, incluida la posición de la X, y adapta sus colores al fondo, texto y paneles del tema. El logo se renderiza según la escala de pantalla; Color/Monochrome actualiza los iconos de ventana y los accesos de Noxmera verificados en Inicio, escritorio y barra de tareas, conservando sus destinos y argumentos.
 
