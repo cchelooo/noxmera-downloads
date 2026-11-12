@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.17**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.18**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.17/Noxmera-Setup-0.1.17-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.17/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.17)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.18/Noxmera-Setup-0.1.18-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.18/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.18)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.18 añade cambios seleccionables en Global: mods, texture packs ZIP y servidores. Las exclusiones se guardan al publicar y se recuerdan en las siguientes publicaciones. Los packs incluyen activación y orden; las actualizaciones conservan el contenido y ajustes personales del receptor. También libera imágenes del catálogo tras 30 segundos sin foco, manteniendo búsquedas y descargas. El servicio Global está actualizado para estas funciones.
 
 La 0.1.17 muestra imágenes y botones con enlaces en los README del catálogo de Modrinth y CurseForge. Conserva el tamaño natural de los botones, ajusta las capturas grandes al panel y mantiene juntas y alineadas las imágenes del mismo párrafo, pasando a otra línea solo cuando no caben. La carga se hace en segundo plano; los GIF se muestran con su primera imagen.
 
