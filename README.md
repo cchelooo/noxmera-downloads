@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.19**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.20**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.19/Noxmera-Setup-0.1.19-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.19/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.19)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.20/Noxmera-Setup-0.1.20-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.20/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.20)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.20 incorpora filtros de categoría en la descarga por instancia, manteniendo Modrinth/CurseForge y la compatibilidad con su versión de Minecraft y modloader. Reorganiza las acciones y conserva el scroll de las descripciones largas en ventanas pequeñas. Corrige la identificación de mods instalados en packs grandes, reduce reservas gráficas innecesarias en Windows y conserva los iconos al recorrer el gestor. También agiliza la importación y lectura de Sync, deja desmarcados los componentes ausentes, añade sliders de memoria Java y corrige errores al cerrar o redimensionar ventanas.
 
 La 0.1.19 permite usar CurseForge con tu sesión de Minecraft, sin configurar una clave local: la clave de la aplicación permanece en el servicio Noxmera. Corrige mods con muchos recursos, como Conquest of Westeros, y modpacks que incluyen archivos temporales de mundos, como Cobblemon 1.8.4. Global añade ocultar/restaurar por dispositivo y retirada administrativa con confirmación; distingue Commit changes y Pull changes y ajusta la lista de permisos a sus usuarios. Aplicar mi Sync pasa a Ajustes → General de todas las instancias, omite mods ausentes y conserva los ajustes pendientes de compatibilidad. El servicio ya está actualizado.
 
@@ -36,3 +38,4 @@ Incluye las novedades de la 0.1.9: Sync personal de JEI, REI y EMI para las vers
 Para usar Global, inicia sesión con tu cuenta de Minecraft. Los jugadores no necesitan una cuenta de GitHub.
 
 Las releases incluyen los metadatos firmados que verifica el actualizador y `SHA256SUMS.txt` para comprobar los archivos.
+
