@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.18**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.19**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.18/Noxmera-Setup-0.1.18-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.18/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.18)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.19/Noxmera-Setup-0.1.19-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.19/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.19)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.19 permite usar CurseForge con tu sesión de Minecraft, sin configurar una clave local: la clave de la aplicación permanece en el servicio Noxmera. Corrige mods con muchos recursos, como Conquest of Westeros, y modpacks que incluyen archivos temporales de mundos, como Cobblemon 1.8.4. Global añade ocultar/restaurar por dispositivo y retirada administrativa con confirmación; distingue Commit changes y Pull changes y ajusta la lista de permisos a sus usuarios. Aplicar mi Sync pasa a Ajustes → General de todas las instancias, omite mods ausentes y conserva los ajustes pendientes de compatibilidad. El servicio ya está actualizado.
 
 La 0.1.18 añade cambios seleccionables en Global: mods, texture packs ZIP y servidores. Las exclusiones se guardan al publicar y se recuerdan en las siguientes publicaciones. Los packs incluyen activación y orden; las actualizaciones conservan el contenido y ajustes personales del receptor. También libera imágenes del catálogo tras 30 segundos sin foco, manteniendo búsquedas y descargas. El servicio Global está actualizado para estas funciones.
 
