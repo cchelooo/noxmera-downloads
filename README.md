@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.20**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.21**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.20/Noxmera-Setup-0.1.20-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.20/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.20)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.21/Noxmera-Setup-0.1.21-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.21/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.21)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.21 permite publicar en Global modpacks grandes, como Cobbleverse, junto con su configuración y scripts. Mantiene la lectura por bloques para cuidar la RAM, permite revisar los archivos y detecta conflictos al actualizar. El servicio Global ya está actualizado. Catpack acepta PNG con cualquier nombre, sin tener que renombrarlos a cat.png. Las nuevas instalaciones de modpacks de Modrinth y CurseForge guardan su icono y lo muestran sin reiniciar.
 
 La 0.1.20 incorpora filtros de categoría en la descarga por instancia, manteniendo Modrinth/CurseForge y la compatibilidad con su versión de Minecraft y modloader. Reorganiza las acciones y conserva el scroll de las descripciones largas en ventanas pequeñas. Corrige la identificación de mods instalados en packs grandes, reduce reservas gráficas innecesarias en Windows y conserva los iconos al recorrer el gestor. También agiliza la importación y lectura de Sync, deja desmarcados los componentes ausentes, añade sliders de memoria Java y corrige errores al cerrar o redimensionar ventanas.
 
