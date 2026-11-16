@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.22**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.23**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.22/Noxmera-Setup-0.1.22-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.22/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.22)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.23/Noxmera-Setup-0.1.23-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.23/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.23)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.23 agiliza las publicaciones de Global con dos envíos simultáneos de hasta 4 MiB. Conserva los buffers acotados para cuidar la RAM, reutiliza archivos repetidos y permite cancelar ambos envíos. El servicio R2 ya tiene habilitado el modo paralelo.
 
 La 0.1.22 usa almacenamiento privado R2 para los nuevos archivos de Global, conserva las publicaciones anteriores de GitHub y transfiere bloques de hasta 4 MiB para cuidar la RAM y el procesamiento del servicio. Reanuda lo ya subido y mejora los reintentos tras una interrupción. Actualiza el launcher para descargar el contenido nuevo de Global. También permite combinar modpacks con instancias existentes desde una ventana con iconos y revisión de dependencias, añade filtros de snapshots y menú de clic derecho para mods, y mejora los ajustes y textos de la interfaz.
 
