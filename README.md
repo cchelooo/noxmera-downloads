@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.21**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.22**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.21/Noxmera-Setup-0.1.21-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.21/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.21)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.22/Noxmera-Setup-0.1.22-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.22/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.22)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.22 usa almacenamiento privado R2 para los nuevos archivos de Global, conserva las publicaciones anteriores de GitHub y transfiere bloques de hasta 4 MiB para cuidar la RAM y el procesamiento del servicio. Reanuda lo ya subido y mejora los reintentos tras una interrupción. Actualiza el launcher para descargar el contenido nuevo de Global. También permite combinar modpacks con instancias existentes desde una ventana con iconos y revisión de dependencias, añade filtros de snapshots y menú de clic derecho para mods, y mejora los ajustes y textos de la interfaz.
 
 La 0.1.21 permite publicar en Global modpacks grandes, como Cobbleverse, junto con su configuración y scripts. Mantiene la lectura por bloques para cuidar la RAM, permite revisar los archivos y detecta conflictos al actualizar. El servicio Global ya está actualizado. Catpack acepta PNG con cualquier nombre, sin tener que renombrarlos a cat.png. Las nuevas instalaciones de modpacks de Modrinth y CurseForge guardan su icono y lo muestran sin reiniciar.
 
