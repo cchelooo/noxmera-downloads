@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.24**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.25**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.24/Noxmera-Setup-0.1.24-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.24/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.24)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.25/Noxmera-Setup-0.1.25-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.25/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.25)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.25 mejora los diagnósticos de importación: separa el tiempo de apertura de los archivos de origen y el de creación de los archivos de destino, también al cancelar o fallar. Elimina un registro vacío que podía confundir al revisar los logs y conserva el buffer de copia de 1 MiB. Permite investigar la demora de Prism con más precisión; todavía no se anuncia una corrección de esa lentitud.
 
 La 0.1.24 diferencia bytes, porcentaje y número de archivos durante las importaciones, y añade diagnósticos con tiempos y progreso incluso al cancelar para investigar copias lentas. Muestra una barra de actividad al borrar instancias y añade Stop following o Stop sharing, según quién sea el dueño, en los menús de instancias y Global. Los ajustes generales de Java y Minecraft aprovechan todo el ancho de la ventana.
 
