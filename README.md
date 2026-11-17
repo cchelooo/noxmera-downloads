@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.25**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.26**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.25/Noxmera-Setup-0.1.25-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.25/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.25)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.26/Noxmera-Setup-0.1.26-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.26/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.26)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.26 acelera mucho Global: el servicio funciona junto a su almacenamiento y el launcher envía hasta ocho bloques a la vez. Un modpack de 1 GB que tardaba unos ocho minutos se publica en alrededor de minuto y medio con una conexión rápida, y los cambios pequeños en pocos segundos. Permite compartir modpacks grandes como Craftoria, con miles de archivos de configuración y scripts. Global abre más rápido, las tarjetas aparecen junto con su icono y el texto de progreso ya no parpadea. Retirar o dejar de compartir limpia correctamente las copias vinculadas, y cada ventana usa menos memoria. Esta versión es necesaria para publicar y ver instancias de Global.
 
 La 0.1.25 mejora los diagnósticos de importación: separa el tiempo de apertura de los archivos de origen y el de creación de los archivos de destino, también al cancelar o fallar. Elimina un registro vacío que podía confundir al revisar los logs y conserva el buffer de copia de 1 MiB. Permite investigar la demora de Prism con más precisión; todavía no se anuncia una corrección de esa lentitud.
 
