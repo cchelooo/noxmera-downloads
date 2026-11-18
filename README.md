@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.27**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.28**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.27/Noxmera-Setup-0.1.27-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.27/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.27)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.28/Noxmera-Setup-0.1.28-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.28/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.28)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.28 acelera las actualizaciones de Global: el launcher descarga y reemplaza solo los archivos que cambiaron, sin copiar ni revisar de nuevo toda la instancia. En un modpack grande como Craftoria, actualizar un mod pasa de más de diez segundos a menos de uno, más la descarga. También recuerda los hashes de los archivos compartidos y solo vuelve a leer los que cambiaron. Tus archivos siguen protegidos: solo se reemplazan o borran los que coinciden con la versión anterior de Global, y si una actualización se interrumpe se restauran los originales al abrir el launcher.
 
 La 0.1.27 acelera las descargas de Global: el launcher pide los archivos por lotes y varios a la vez. Un modpack de 470 MB que tardaba unos dos minutos y medio ahora baja en unos 20 segundos con una conexión rápida. Al suscribirte a una instancia Global se aplican tus ajustes de Sync desde el primer arranque; las copias instaladas antes pueden usar Apply Sync. Importar desde la carpeta de otro launcher copia varios archivos a la vez, lo que ayuda en modpacks con miles de archivos de configuración. Añade la pestaña Schematics para instancias con Litematica: un explorador para crear carpetas, añadir, renombrar, mover, copiar, pegar, exportar y borrar schematics, con menú de clic derecho.
 
