@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.29**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.30**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.29/Noxmera-Setup-0.1.29-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.29/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.29)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.30/Noxmera-Setup-0.1.30-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.30/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.30)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.30 añade un buscador con Ctrl+K: lleva directo a cualquier página, sección de Ajustes, instancia o búsqueda de Modrinth y CurseForge, y entiende el tipo si lo escribes («sodium mod», «bare bones texture pack»). En el catálogo ahora puedes elegir varias categorías a la vez y, en Modrinth, excluir las que no quieras. Ajustes → Almacenamiento muestra cuánto ocupa cada instancia y permite borrar los logs antiguos. Tu skin ya no desaparece en el juego al abrir Minecraft justo después del launcher, Ctrl+Retroceso y Ctrl+Supr borran palabras enteras e incluye varias correcciones de Sync, mods, skins y exportación.
 
 La 0.1.29 añade Sync de Litematica: configura una vez tus opciones y atajos de Litematica y cada instancia nueva los recibe, con las mismas pestañas, valores y descripciones que en el juego (Litematica 1.16.1 a 26.3). Las teclas de Minecraft en Sync siguen ahora el orden y los nombres de la pantalla de controles del juego y solo incluyen teclas vanilla. Al grabar una tecla, Esc la deja sin asignar y «Cancelar» conserva la anterior. La caché de descargas ya no crece sin límite: 2 GB por defecto, configurable o vaciable en Ajustes → Almacenamiento. Los mensajes de error aparecen en el idioma de la interfaz.
 
