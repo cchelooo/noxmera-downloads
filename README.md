@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.28**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.29**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.28/Noxmera-Setup-0.1.28-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.28/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.28)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.29/Noxmera-Setup-0.1.29-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.29/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.29)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.29 añade Sync de Litematica: configura una vez tus opciones y atajos de Litematica y cada instancia nueva los recibe, con las mismas pestañas, valores y descripciones que en el juego (Litematica 1.16.1 a 26.3). Las teclas de Minecraft en Sync siguen ahora el orden y los nombres de la pantalla de controles del juego y solo incluyen teclas vanilla. Al grabar una tecla, Esc la deja sin asignar y «Cancelar» conserva la anterior. La caché de descargas ya no crece sin límite: 2 GB por defecto, configurable o vaciable en Ajustes → Almacenamiento. Los mensajes de error aparecen en el idioma de la interfaz.
 
 La 0.1.28 acelera las actualizaciones de Global: el launcher descarga y reemplaza solo los archivos que cambiaron, sin copiar ni revisar de nuevo toda la instancia. En un modpack grande como Craftoria, actualizar un mod pasa de más de diez segundos a menos de uno, más la descarga. También recuerda los hashes de los archivos compartidos y solo vuelve a leer los que cambiaron. Tus archivos siguen protegidos: solo se reemplazan o borran los que coinciden con la versión anterior de Global, y si una actualización se interrumpe se restauran los originales al abrir el launcher.
 
