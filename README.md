@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.33**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.34**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.33/Noxmera-Setup-0.1.33-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.33/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.33)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.34/Noxmera-Setup-0.1.34-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.34/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.34)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.34 añade un asistente de errores: si Minecraft se cierra por un error, la consola explica la causa en simple (una dependencia que falta o en otra versión, mods incompatibles o duplicados, Java antiguo, falta de memoria) y ofrece arreglarlo con un clic: «Descargar el mod y reintentar» (la versión exacta que pide el mod cuando es posible) o «Desactivar el mod y reintentar». Los modpacks de Modrinth que necesitan archivos que solo están en CurseForge (como Better MC) ya no se detienen dentro del juego: antes de lanzar, Noxmera muestra qué falta, descarga lo que CurseForge permite, abre el resto en tu navegador y lo recoge solo de tu carpeta Descargas. También avisa cuando Mojang limita las consultas (la skin o la entrada a servidores pueden fallar) y nombra a Essential si está instalado.
 
 La 0.1.33 hace que los modpacks de Forge 1.8.9 (y otras versiones antiguas de Forge) arranquen bien. Las descargas ya no se quedan congeladas: si un servidor deja de enviar datos, Noxmera lo detecta en 45 segundos y reintenta, y los modpacks grandes y Java terminan también con conexiones lentas. Las esperas ahora se ven: las tarjetas de instancia muestran «Preparando… N%» con una barra mientras se prepara y «En juego» mientras juegas, y las listas, búsquedas y ventanas que cargan muestran una barra en movimiento. Antes de publicarla se probaron Vanilla, Forge, NeoForge, Fabric y Quilt desde la 1.7.10 hasta la última versión y varios modpacks populares de Modrinth.
 
