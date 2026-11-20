@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.30**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.31**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.30/Noxmera-Setup-0.1.30-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.30/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.30)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.31/Noxmera-Setup-0.1.31-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.31/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.31)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.31 evita abrir el launcher dos veces: si ya está abierto, se enfoca la ventana existente y una misma instancia nunca se lanza dos veces por accidente. Las ventanas de Sync son iguales entre sí, con pestañas como en Ajustes y la lista fija al cambiar de pestaña. En ventanas pequeñas, el panel lateral avisa cuando hay más opciones abajo, y los nombres largos de las instancias se muestran completos al pasar el ratón.
 
 La 0.1.30 añade un buscador con Ctrl+K: lleva directo a cualquier página, sección de Ajustes, instancia o búsqueda de Modrinth y CurseForge, y entiende el tipo si lo escribes («sodium mod», «bare bones texture pack»). En el catálogo ahora puedes elegir varias categorías a la vez y, en Modrinth, excluir las que no quieras. Ajustes → Almacenamiento muestra cuánto ocupa cada instancia y permite borrar los logs antiguos. Tu skin ya no desaparece en el juego al abrir Minecraft justo después del launcher, Ctrl+Retroceso y Ctrl+Supr borran palabras enteras e incluye varias correcciones de Sync, mods, skins y exportación.
 
