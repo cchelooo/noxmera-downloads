@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.34**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.35**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.34/Noxmera-Setup-0.1.34-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.34/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.34)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.35/Noxmera-Setup-0.1.35-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.35/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.35)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.35 hace copias automáticas de tus mundos antes de que una actualización de Global o Sync cambie la instancia (guarda las 3 más nuevas de cada mundo), y en Mundos puedes hacer una copia o restaurar cualquiera sin perder nada. La sección Mods del editor revisa la instancia antes de jugar (un mod obligatorio que falta, dos mods incompatibles o un mod repetido) y ofrece descargarlo o desactivarlo ahí mismo. Con Ctrl+Enter (o en Ajustes → General) ves todos los atajos de teclado y puedes cambiarlos. Los modpacks de CurseForge (como All the Mods) con archivos que solo se descargan desde la web usan la misma ventana que los de Modrinth: el enlace abre la descarga directa y Noxmera recoge cada archivo de tu carpeta Descargas. Además, los modpacks con FancyMenu ya no cambian tu escala de interfaz en el primer arranque, las instancias con mods muy grandes (como Chisel) se pueden volver a publicar en Global y Quilt deja de ofrecerse al crear instancias (las existentes siguen funcionando).
 
 La 0.1.34 añade un asistente de errores: si Minecraft se cierra por un error, la consola explica la causa en simple (una dependencia que falta o en otra versión, mods incompatibles o duplicados, Java antiguo, falta de memoria) y ofrece arreglarlo con un clic: «Descargar el mod y reintentar» (la versión exacta que pide el mod cuando es posible) o «Desactivar el mod y reintentar». Los modpacks de Modrinth que necesitan archivos que solo están en CurseForge (como Better MC) ya no se detienen dentro del juego: antes de lanzar, Noxmera muestra qué falta, descarga lo que CurseForge permite, abre el resto en tu navegador y lo recoge solo de tu carpeta Descargas. También avisa cuando Mojang limita las consultas (la skin o la entrada a servidores pueden fallar) y nombra a Essential si está instalado.
 
