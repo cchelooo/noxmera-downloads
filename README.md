@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.36**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.37**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.36/Noxmera-Setup-0.1.36-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.36/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.36)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.37/Noxmera-Setup-0.1.37-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.37/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.37)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.37 hace que «Descargar y jugar», en los modpacks con archivos que solo están en CurseForge, espere a que bajes primero los marcados como Navegador; «Jugar sin ellos» sigue disponible. Al descargar el Java que necesita un modpack, el juego se lanza solo, sin volver a pulsar Lanzar. Ahora puedes eliminar un Java descargado aunque una instancia lo use: esa instancia usará otro Java compatible o te ofrecerá descargarlo al lanzar. En los temas personalizados, cambia un color y pulsa Aplicar para guardarlo en el tema elegido (Oscuro y Claro piden antes un nombre); el botón «Por defecto» repone los colores originales. Y no se instala un mod si uno que ya tienes declara que no funciona con él.
 
 La 0.1.36 hace que Global muestre solo cambios reales: ya no lista lo que el juego reescribe solo, como la fecha que Iris y otros mods escriben en sus ajustes al arrancar, los comentarios que un mod añade a su config o las capturas de mundos de FancyMenu. Esos archivos tampoco bloquean la actualización de un amigo. La lista para publicar va agrupada por tipo (mods, packs de recursos, configuración, scripts, datapacks…), con una casilla para marcar todo el grupo y una flecha para plegarlo. Tras la primera publicación, los cambios de configuración vienen desmarcados porque suelen ser preferencias personales. En Capturas, el clic derecho permite abrir, mostrar en la carpeta, copiar (para pegar en el Explorador, Discord o Paint), renombrar y eliminar. «Copiar» en Schematics ya funciona fuera de Noxmera.
 
