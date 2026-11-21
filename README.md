@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.35**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.36**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.35/Noxmera-Setup-0.1.35-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.35/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.35)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.36/Noxmera-Setup-0.1.36-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.36/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.36)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.36 hace que Global muestre solo cambios reales: ya no lista lo que el juego reescribe solo, como la fecha que Iris y otros mods escriben en sus ajustes al arrancar, los comentarios que un mod añade a su config o las capturas de mundos de FancyMenu. Esos archivos tampoco bloquean la actualización de un amigo. La lista para publicar va agrupada por tipo (mods, packs de recursos, configuración, scripts, datapacks…), con una casilla para marcar todo el grupo y una flecha para plegarlo. Tras la primera publicación, los cambios de configuración vienen desmarcados porque suelen ser preferencias personales. En Capturas, el clic derecho permite abrir, mostrar en la carpeta, copiar (para pegar en el Explorador, Discord o Paint), renombrar y eliminar. «Copiar» en Schematics ya funciona fuera de Noxmera.
 
 La 0.1.35 hace copias automáticas de tus mundos antes de que una actualización de Global o Sync cambie la instancia (guarda las 3 más nuevas de cada mundo), y en Mundos puedes hacer una copia o restaurar cualquiera sin perder nada. La sección Mods del editor revisa la instancia antes de jugar (un mod obligatorio que falta, dos mods incompatibles o un mod repetido) y ofrece descargarlo o desactivarlo ahí mismo. Con Ctrl+Enter (o en Ajustes → General) ves todos los atajos de teclado y puedes cambiarlos. Los modpacks de CurseForge (como All the Mods) con archivos que solo se descargan desde la web usan la misma ventana que los de Modrinth: el enlace abre la descarga directa y Noxmera recoge cada archivo de tu carpeta Descargas. Además, los modpacks con FancyMenu ya no cambian tu escala de interfaz en el primer arranque, las instancias con mods muy grandes (como Chisel) se pueden volver a publicar en Global y Quilt deja de ofrecerse al crear instancias (las existentes siguen funcionando).
 
