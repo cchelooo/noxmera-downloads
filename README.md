@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.38**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.39**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.38/Noxmera-Setup-0.1.38-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.38/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.38)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.39/Noxmera-Setup-0.1.39-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.39/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.39)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.39 importa tus instancias de Modrinth App: aparecen en Importar con su versión, loader e icono, y se copian a Noxmera sin tocar los datos de Modrinth App, aunque esté abierto. Si moviste su carpeta de datos, elígela en Ajustes → Importaciones. En Importar → ZIP también puedes elegir un .mrpack de Modrinth o el ZIP de un modpack de CurseForge para instalarlo como instancia nueva, igual que desde el catálogo.
 
 La 0.1.38 trae «Compartir enlace»: haz clic derecho en una instancia y comparte un enlace con el que cualquiera puede instalar una copia durante 2 horas. Los mods se bajan de Modrinth y CurseForge, y solo se suben la configuración y los archivos que no están en ningún catálogo (hasta 500 MB); nunca se comparten mundos, cuentas ni tus opciones. Puedes compartir una instancia a la vez, y borrarla deja de compartirla. En Importar, «Importar desde enlace» instala lo que te compartieron, y el enlace también abre Noxmera directo desde Discord. Al publicar en Global puedes elegir un servidor por defecto, que aparece primero en Multijugador para quien instale la instancia.
 
