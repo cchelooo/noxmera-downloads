@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.37**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.38**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.37/Noxmera-Setup-0.1.37-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.37/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.37)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.38/Noxmera-Setup-0.1.38-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.38/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.38)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.38 trae «Compartir enlace»: haz clic derecho en una instancia y comparte un enlace con el que cualquiera puede instalar una copia durante 2 horas. Los mods se bajan de Modrinth y CurseForge, y solo se suben la configuración y los archivos que no están en ningún catálogo (hasta 500 MB); nunca se comparten mundos, cuentas ni tus opciones. Puedes compartir una instancia a la vez, y borrarla deja de compartirla. En Importar, «Importar desde enlace» instala lo que te compartieron, y el enlace también abre Noxmera directo desde Discord. Al publicar en Global puedes elegir un servidor por defecto, que aparece primero en Multijugador para quien instale la instancia.
 
 La 0.1.37 hace que «Descargar y jugar», en los modpacks con archivos que solo están en CurseForge, espere a que bajes primero los marcados como Navegador; «Jugar sin ellos» sigue disponible. Al descargar el Java que necesita un modpack, el juego se lanza solo, sin volver a pulsar Lanzar. Ahora puedes eliminar un Java descargado aunque una instancia lo use: esa instancia usará otro Java compatible o te ofrecerá descargarlo al lanzar. En los temas personalizados, cambia un color y pulsa Aplicar para guardarlo en el tema elegido (Oscuro y Claro piden antes un nombre); el botón «Por defecto» repone los colores originales. Y no se instala un mod si uno que ya tienes declara que no funciona con él.
 
