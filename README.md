@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.39**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.40**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.39/Noxmera-Setup-0.1.39-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.39/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.39)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.40/Noxmera-Setup-0.1.40-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.40/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.40)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.40 acelera las importaciones si tienes Microsoft Defender: al importar desde otro launcher, Noxmera te explica por qué puede tardar y te guía para excluir Noxmera.exe en Seguridad de Windows (en nuestras pruebas, de 24 a 3,5 segundos). Defender sigue revisando tus mods cuando Minecraft los abre y Noxmera nunca cambia tu configuración de seguridad. En Ajustes → General → Avisos puedes volver a activar cualquier aviso que ocultaste con «No volver a mostrar».
 
 La 0.1.39 importa tus instancias de Modrinth App: aparecen en Importar con su versión, loader e icono, y se copian a Noxmera sin tocar los datos de Modrinth App, aunque esté abierto. Si moviste su carpeta de datos, elígela en Ajustes → Importaciones. En Importar → ZIP también puedes elegir un .mrpack de Modrinth o el ZIP de un modpack de CurseForge para instalarlo como instancia nueva, igual que desde el catálogo.
 
