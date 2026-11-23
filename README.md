@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.40**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.41**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.40/Noxmera-Setup-0.1.40-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.40/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.40)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.41/Noxmera-Setup-0.1.41-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.41/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.41)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.41 renueva el catálogo: cada resultado muestra sus loaders, cuándo se actualizó y sus descargas; los mods de Modrinth se filtran por entorno (cliente o servidor) y, al instalar en una instancia, puedes ocultar lo que ya tienes. La ficha tiene pestañas de Descripción, Versiones (elige cualquiera de la lista), Galería y Changelog, y bajo el título aparecen los mods que necesita la versión elegida. Cada sección recuerda sus filtros mientras Noxmera está abierto. Además, instalar en modpacks grandes es más rápido (la revisión previa pasa de unos dos segundos a milisegundos) y, si Minecraft se traba al cerrarse, Noxmera lo explica y te dice que tu partida se guardó, en vez de mostrar un error desconocido.
 
 La 0.1.40 acelera las importaciones si tienes Microsoft Defender: al importar desde otro launcher, Noxmera te explica por qué puede tardar y te guía para excluir Noxmera.exe en Seguridad de Windows (en nuestras pruebas, de 24 a 3,5 segundos). Defender sigue revisando tus mods cuando Minecraft los abre y Noxmera nunca cambia tu configuración de seguridad. En Ajustes → General → Avisos puedes volver a activar cualquier aviso que ocultaste con «No volver a mostrar».
 
