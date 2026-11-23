@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.41**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.42**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.41/Noxmera-Setup-0.1.41-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.41/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.41)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.42/Noxmera-Setup-0.1.42-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.42/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.42)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.42 hace el launcher más cómodo con el teclado: Tab salta entre zonas (barra lateral, tarjetas, resultados del catálogo, listas del editor…) en vez de pasar por cada botón, y las flechas (o h/j/k/l) se mueven dentro; Enter o Espacio activan y un borde de color muestra dónde estás. Trae atajos nuevos, todos configurables con Ctrl+Enter: Ctrl+N nueva instancia, Ctrl+, Ajustes, Ctrl+I Importar, F5 recargar, Ctrl+L jugar y Ctrl+E editar la instancia bajo el mouse, y Ctrl+1 a Ctrl+7 para las secciones. Esc ahora también cierra las ventanas de archivos de CurseForge, Compartir enlace, Sodium y Sodium Extra.
 
 La 0.1.41 renueva el catálogo: cada resultado muestra sus loaders, cuándo se actualizó y sus descargas; los mods de Modrinth se filtran por entorno (cliente o servidor) y, al instalar en una instancia, puedes ocultar lo que ya tienes. La ficha tiene pestañas de Descripción, Versiones (elige cualquiera de la lista), Galería y Changelog, y bajo el título aparecen los mods que necesita la versión elegida. Cada sección recuerda sus filtros mientras Noxmera está abierto. Además, instalar en modpacks grandes es más rápido (la revisión previa pasa de unos dos segundos a milisegundos) y, si Minecraft se traba al cerrarse, Noxmera lo explica y te dice que tu partida se guardó, en vez de mostrar un error desconocido.
 
