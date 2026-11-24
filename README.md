@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.43**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.44**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.43/Noxmera-Setup-0.1.43-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.43/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.43)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.44/Noxmera-Setup-0.1.44-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.44/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.44)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.44 permite importar, exportar, renombrar y eliminar temas desde Ajustes → Apariencia. Los botones quedan a la derecha, debajo del selector de Tema. También corrige la revisión de dependencias en modpacks de Forge antiguo, la apertura de enlaces de instancias con Noxmera ya abierto en Windows y los clics que pasaban detrás de «Copiar de jugador» en Skins.
 
 La 0.1.43 deja elegir cómo se ve la biblioteca de instancias, en Ajustes → Apariencia → Biblioteca de instancias: tamaño de tarjeta (pequeño, mediano o grande), grupos en filas horizontales (como siempre) o en una cuadrícula vertical que baja las tarjetas a la fila siguiente, mostrar nombre con versión y loader o solo el nombre, y ordenar por jugadas recientemente o por nombre. Los grupos quedan alineados con «MINECRAFT» de la barra lateral. En el editor, los mundos aparecen por última partida jugada, y en Schematics puedes arrastrar archivos a una carpeta o a la ruta de arriba para subirlos.
 
