@@ -1,13 +1,15 @@
 # Noxmera Launcher
 
-Descargas oficiales para Windows x64. Versión estable: **0.1.42**.
+Descargas oficiales para Windows x64. Versión estable: **0.1.43**.
 
-- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.42/Noxmera-Setup-0.1.42-windows-x64.exe)
-- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.42/Noxmera-windows-x64.zip)
-- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.42)
+- [Descargar instalador](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.43/Noxmera-Setup-0.1.43-windows-x64.exe)
+- [Descargar ZIP portable](https://github.com/cchelooo/noxmera-downloads/releases/download/v0.1.43/Noxmera-windows-x64.zip)
+- [Notas de la versión](https://github.com/cchelooo/noxmera-downloads/releases/tag/v0.1.43)
 
 El instalador conserva tus instancias y ajustes. Para usar el ZIP, extráelo y abre `Noxmera.exe`.
 Si ya tienes Noxmera, puedes actualizar desde **Ajustes → General → Actualizador**, al cerrar o reiniciando el launcher.
+
+La 0.1.43 deja elegir cómo se ve la biblioteca de instancias, en Ajustes → Apariencia → Biblioteca de instancias: tamaño de tarjeta (pequeño, mediano o grande), grupos en filas horizontales (como siempre) o en una cuadrícula vertical que baja las tarjetas a la fila siguiente, mostrar nombre con versión y loader o solo el nombre, y ordenar por jugadas recientemente o por nombre. Los grupos quedan alineados con «MINECRAFT» de la barra lateral. En el editor, los mundos aparecen por última partida jugada, y en Schematics puedes arrastrar archivos a una carpeta o a la ruta de arriba para subirlos.
 
 La 0.1.42 hace el launcher más cómodo con el teclado: Tab salta entre zonas (barra lateral, tarjetas, resultados del catálogo, listas del editor…) en vez de pasar por cada botón, y las flechas (o h/j/k/l) se mueven dentro; Enter o Espacio activan y un borde de color muestra dónde estás. Trae atajos nuevos, todos configurables con Ctrl+Enter: Ctrl+N nueva instancia, Ctrl+, Ajustes, Ctrl+I Importar, F5 recargar, Ctrl+L jugar y Ctrl+E editar la instancia bajo el mouse, y Ctrl+1 a Ctrl+7 para las secciones. Esc ahora también cierra las ventanas de archivos de CurseForge, Compartir enlace, Sodium y Sodium Extra.
 
