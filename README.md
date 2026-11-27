@@ -16,7 +16,7 @@ Si ya tienes Noxmera, puedes actualizarlo desde **Ajustes → General → Actual
 
 El equipo puede publicar mods, packs de recursos, configuraciones del modpack y un servidor por defecto. Tus mundos, tus cuentas y tus teclas se quedan en tu equipo.
 
-**Noxmera SMP distribuirá su instancia por Global.** Cuando abra, podrás descargarla desde Global y encontrar el servidor en **Multijugador**. Para entrar a Noxmera SMP, registra tu nombre de Minecraft en **#whitelist** de Discord. Los pasos completos estarán en **#como-entrar**.
+**Noxmera SMP distribuirá su instancia por Global.** Cuando abra, podrás descargarla desde Global y encontrar el servidor en **Multijugador**. Para entrar a Noxmera SMP, verifica tu cuenta con `/verify` en **#whitelist** de Discord. Los pasos completos estarán en **#como-entrar**.
 
 ## Sincroniza tus teclas
 
@@ -24,7 +24,7 @@ El equipo puede publicar mods, packs de recursos, configuraciones del modpack y 
 2. Activa **Aplicar a instancias nuevas** y guarda tus cambios. Tus instancias nuevas y las que descargues de Global podrán usar ese perfil personal desde el primer arranque.
 3. Para aplicar el perfil a una instancia que ya tienes, abre **Editar → Ajustes → General → Aplicar mi Sync** y confirma con Minecraft cerrado.
 
-En Sync también puedes guardar ajustes y atajos compatibles de mods como Xaero, Litematica, JEI, REI y EMI. Sodium y Sodium Extra tienen sus propios paneles.
+En Sync también puedes guardar ajustes y atajos compatibles de mods como Xaero, Litematica, JEI, REI y EMI. Sodium y Sodium Extra se ajustan juntos en **Ajustes de Sodium Mods**.
 
 ## Más herramientas
 
